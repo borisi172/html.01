@@ -1,0 +1,31 @@
+body{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 500px;
+    background-color: #28293e;
+    font-family: Arial;
+}
+header{
+    padding-top: 16px;
+    background-color: #28293e;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.container,.flex{
+    padding-left: 135px;
+    padding-right: 135px;
+}
+.logo,nav,li{
+    display: inline-block;
+    color: #FFFFFF ;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.teqst{
+    color: #ffffff;
+}
+.uppercase:lang(en){
+ text-transform:uppercase ;
+}
